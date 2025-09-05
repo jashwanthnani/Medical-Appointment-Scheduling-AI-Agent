@@ -2,3 +2,7 @@ streamlit
 pandas
 openpyxl
 faker
+reportlab
+python-docx
+fpdf
+xlsxwriter
