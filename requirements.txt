@@ -6,3 +6,5 @@ reportlab
 python-docx
 fpdf
 xlsxwriter
+reportlab
+apscheduler
